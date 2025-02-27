@@ -1,0 +1,4 @@
+class Carp extends Fish
+{
+
+}
