@@ -1,4 +1,0 @@
-class Sammon extends Birds
-{
-
-}

@@ -1,4 +1,0 @@
-class goldFish extends Fish
-{
-
-}

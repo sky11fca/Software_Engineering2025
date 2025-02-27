@@ -9,4 +9,6 @@ abstract class Birds extends Animal
 
     abstract void setHeight(int max, int min);
     abstract void setHeight(int max);
+
+    abstract void getHeight();
 }

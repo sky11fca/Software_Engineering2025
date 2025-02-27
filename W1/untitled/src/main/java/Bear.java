@@ -1,4 +1,0 @@
-class Bear extends Mammal
-{
-
-}
